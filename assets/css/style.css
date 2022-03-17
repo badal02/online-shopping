@@ -65,7 +65,7 @@ p {
   transition: background 0.5s;
 }
 .btn:hover {
-  background: rgb(161, 95, 7);
+  background: rgb(255, 255, 255);
 }
 .header {
   background: rgb(7, 45, 80);
