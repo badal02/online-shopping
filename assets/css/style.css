@@ -122,8 +122,10 @@ p {
 .col-4:hover{
   transform: translateY(-5px)
 }
+/*----------offfer------*/
 .offer{
-  background: radial-gradient(rgb(121, 121, 216),rgb(10, 50, 87));
+  background: radial-gradient(rgb(11, 118, 189),rgb(5, 41, 75));
   margin-top: 80px;
   padding: 30px 0;
 }
+
